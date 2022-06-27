@@ -1,3 +1,6 @@
+Оригинальный репозитарий     
+https://github.com/linkerd/linkerd2.   
+
 # Linkerd
 
 ![Linkerd][logo]
